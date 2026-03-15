@@ -1,4 +1,4 @@
-FROM artifacts.mastercard.int/mcr-unstable/codercom/code-server:latest
+FROM codercom/code-server:latest
 
 # Optional: set a specific Python version available in Debian repos (bookworm: 3.11)
 # If you need a different version, adjust accordingly.
